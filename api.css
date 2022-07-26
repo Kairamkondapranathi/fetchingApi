@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    color: red;
+}
+.heading{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+}
+#data{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.image{
+    width:80%;
+}
+.title{
+    font-size: 1.3rem;
+}
